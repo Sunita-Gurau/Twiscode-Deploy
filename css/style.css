@@ -1,0 +1,19 @@
+.nav ul li{
+    padding-right: 35px;
+
+}
+.landingpage-image{
+    background-image:url("../images/Vector\ 14.png");
+    background-repeat: no-repeat;
+    background-position:center;
+}
+
+.view-details{
+    background-image:url("../images/pictures/Rectangle\ 24.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:600px;
+    width: 100%;
+   
+}
+
